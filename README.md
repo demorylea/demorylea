@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 📫 How to reach me : demory.lea@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I want to live in Ireland
+- ⚡ Fun fact: I want to live in Ireland but my boyfriend want to live in Québec.
 
 <!---
 demorylea/demorylea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
